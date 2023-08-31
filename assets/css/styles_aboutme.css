@@ -1,0 +1,27 @@
+#aboutme {
+    position: relative;
+}
+
+#aboutme>h3 {
+    margin-left: 2vw;
+    font-size: 2vw;
+}
+#aboutme>img {
+    margin-left: 5vw;
+}
+#amdiv1>h2 {
+    position: absolute;
+    margin-left: 30vw;
+    top: 10vw;
+}
+#aboutme>p {
+    position: absolute;
+    top: 200px;
+    left: 30vw;
+
+}
+#aboutme>h4 {
+    position: absolute;
+    left: 30vw;
+    bottom: 100px;
+}

@@ -1,0 +1,14 @@
+
+#projects {
+    position: relative;
+}
+#projects>h3 {
+    position: absolute;
+    left: 2vw;
+    font-size: 2vw;
+}
+#projects>h4 {
+    position: absolute;
+    left: 30vw;
+    top: 100px;
+}
