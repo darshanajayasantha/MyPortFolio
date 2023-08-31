@@ -1,6 +1,6 @@
 #home{
     width: 100vw;
-    height: 100vh;
+    height:150vh;
     position: relative;
 }
 
@@ -69,7 +69,33 @@
 }
 
 
-#div1>h1 {
-    color:black;
-    margin-top: 5vw;
+.div2{
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+
+.div2 h3{
+    font-size: 64px;
+    margin-bottom: -65px;
+}
+
+.div2> h4{
+    font-size: 64px;
+    color: orangered;
+    margin-top: 100px;
+}
+
+.div2> button{
+    width: 300px;
+    height: 40px;
+    background-color: darkgreen;
+    border-radius: 45px;
+}
+
+.div2> button> a{
+    font-size: 24px;
+    color: white;
 }
